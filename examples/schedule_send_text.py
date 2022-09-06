@@ -12,7 +12,7 @@ except ImportError:
 # 创建微信实例
 wework = ntwork.WeWork()
 
-# 打开pc微信, smart: 是否管理已经登录的微信
+# 打开pc企业微信, smart: 是否管理已经登录的微信
 wework.open(smart=True)
 
 

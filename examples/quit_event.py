@@ -6,7 +6,7 @@ import ntwork
 
 wework = ntwork.WeWork()
 
-# 打开pc微信, smart: 是否管理已经登录的微信
+# 打开pc企业微信, smart: 是否管理已经登录的微信
 wework.open(smart=True)
 
 global_quit_flag = False
