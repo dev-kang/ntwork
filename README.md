@@ -121,7 +121,8 @@ def on_recv_text_msg(wework_instance: ntwork.WeWork, message):
 
     # 判断消息不是自己发的并且不是群消息时，回复对方
     if sender_user_id != self_user_id and not conversation_id.startswith("R:"):
-        wework_instance.send_text(conversation_id=conversation_id, content=f"你发送的消息是: {data['content']}")
+        wework_instance.send_text(conversation_id=conversation_id, 
+                                  content=f"你发送的消息是: {data['content']}")
 
 
 try:
