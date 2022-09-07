@@ -12,8 +12,8 @@
 - 基于pc企业微信的api接口
 - 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
   
-## 支持的微信版本下载
-- [WeCom_4.0.8.6027.exe](https://dldir1.qq.com/wework/work_weixin/WeCom_4.0.8.6027.exe)
+## 支持的企业微信版本下载
+- 官方下载 [WeCom_4.0.8.6027.exe](https://dldir1.qq.com/wework/work_weixin/WeCom_4.0.8.6027.exe)
 
 ## 帮助文档
 - 查看 [常见问题](docs/FAQ.md)
